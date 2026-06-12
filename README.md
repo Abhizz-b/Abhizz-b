@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data structures and algorithm in C++
 - Planning to explore full stack web devlopment 
 - 💞️ I’m looking to collaborate on C++ projects and beginner friendly web devlopment projects 
-- 📫 How to reach me: abhipsabose40@gmail.com
+- 📫 How to reach me: abhipsabose80@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i love solving puzzles and playing chess
 - Skills and tools :
