@@ -28,26 +28,11 @@ Currently leading visual design for my college's official hackathon chapter as *
 
 <br/>
 
----
-
+<div align="center">
+<img src="assets/hamster-mascot.svg" width="190" alt="cute waving hamster mascot"/>
 <br/>
-
-## Experience
-
-<br/>
-
-**UI/UX Developer** &nbsp;·&nbsp; Harkaswanen &nbsp;`Aug 2025 – Oct 2025`
-> Designed and built UI for the company's platform from scratch. Created wireframes and high-fidelity Figma prototypes, then implemented them in production with a focus on visual consistency.
-
-<br/>
-
-**UI/UX & Frontend Developer** &nbsp;·&nbsp; Morning Breeze Foundation (NGO) &nbsp;`Oct 2025 – Nov 2025`
-> Designed and developed the NGO's website from the ground up — handled both UX design and frontend implementation to improve accessibility and digital presence.
-
-<br/>
-
-**UI/UX & Frontend Developer** &nbsp;·&nbsp; Clickites &nbsp;`Nov 2025 – Jan 2026`
-> Built complete frontend for an AI-powered calling agent platform from scratch using HTML, CSS, and JavaScript. Integrated responsive UI components with backend APIs for production deployment.
+<sub>✌️ hey, thanks for stopping by!</sub>
+</div>
 
 <br/>
 
