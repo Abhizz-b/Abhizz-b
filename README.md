@@ -17,16 +17,6 @@ Currently leading visual design for my college's official hackathon chapter as *
 </tr>
 </table>
 
-<div align="center">
-
-<a href="mailto:abhipsabose80@gmail.com"><img src="https://img.shields.io/badge/abhipsabose80@gmail.com-%23c084fc.svg?style=flat-square&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/abhizz-b"><img src="https://img.shields.io/badge/abhizz--b-%23a855f7.svg?style=flat-square&logo=github&logoColor=white"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/abhipsab0"><img src="https://img.shields.io/badge/abhipsab0-%23e879f9.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
-
-</div>
-
 <br/>
 
 ---
@@ -108,6 +98,10 @@ Currently leading visual design for my college's official hackathon chapter as *
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<a href="mailto:abhipsabose80@gmail.com"><img src="https://img.shields.io/badge/abhipsabose80@gmail.com-%23c084fc.svg?style=flat-square&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/abhizz-b"><img src="https://img.shields.io/badge/abhizz--b-%23a855f7.svg?style=flat-square&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/abhipsab0"><img src="https://img.shields.io/badge/abhipsab0-%23e879f9.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 </div>
