@@ -1,23 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhipsa%20Bose&fontSize=58&fontColor=ffffff&fontAlignY=42" />
-
-<br/>
-
-<a href="mailto:abhipsabose80@gmail.com"><img src="https://img.shields.io/badge/abhipsabose80@gmail.com-%23c084fc.svg?style=flat-square&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/abhizz-b"><img src="https://img.shields.io/badge/abhizz--b-%23a855f7.svg?style=flat-square&logo=github&logoColor=white"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/abhipsab0"><img src="https://img.shields.io/badge/abhipsab0-%23e879f9.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 ## About Myself
 
 <table>
@@ -37,33 +17,15 @@ Currently leading visual design for my college's official hackathon chapter as *
 </tr>
 </table>
 
-<br/>
+<div align="center">
 
----
+<a href="mailto:abhipsabose80@gmail.com"><img src="https://img.shields.io/badge/abhipsabose80@gmail.com-%23c084fc.svg?style=flat-square&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/abhizz-b"><img src="https://img.shields.io/badge/abhizz--b-%23a855f7.svg?style=flat-square&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/abhipsab0"><img src="https://img.shields.io/badge/abhipsab0-%23e879f9.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
-<br/>
-
-## Projects
-
-<br/>
-
-**01 &nbsp;·&nbsp; PoseMuse** &nbsp;&nbsp; ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-%230097A7.svg?style=flat-square&logo=google&logoColor=white) ![ML Kit](https://img.shields.io/badge/ML%20Kit-%234285F4.svg?style=flat-square&logo=google&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black) &nbsp;`ongoing`
-> AI pose detection assistant with real-time multi-person detection, environment awareness, and Firebase-backed user data and favorites. Built solo every pixel and every line.
-
-<br/>
-
-**02 &nbsp;·&nbsp; DermaCam** &nbsp;&nbsp; ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Groq](https://img.shields.io/badge/Groq%20Llama%204-%23F54E42.svg?style=flat-square&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
-> Led all frontend & UI for a 6-model parallel AI dermatology app. Achieved 94.5% acne and 91.8% melanoma detection accuracy. Built Hinglish Voice AI (speech-to-text + TTS) for rural accessibility.
-
-<br/>
-
-**03 &nbsp;·&nbsp; AI Calling Platform UI** &nbsp;&nbsp; ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-> Developed complete frontend for an AI-powered calling agent from scratch at Clickites. Responsive, API-integrated, production-deployed from scratch.
-
-<br/>
-
-**04 &nbsp;·&nbsp; Brand & NGO Websites** &nbsp;&nbsp; ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-> Designed and developed full web presence for Harkaswanen and Morning Breeze Foundation — Figma to production.
+</div>
 
 <br/>
 
@@ -137,19 +99,6 @@ Currently leading visual design for my college's official hackathon chapter as *
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=canva&logoColor=white)
-
-<br/>
-
----
-
-<br/>
-
-## Right Now
-
-- building **PoseMuse** — a pose recommendation app that detects your environment and analyzes the person to suggest the perfect pose, built for our gen-z users · **hitting Play Store soon**
-- leading design & branding for **HWI × KCC** hackathon chapter
-- exploring on device ML and real time computer vision
-- **OPEN TO WORK & INTERNSHIPS**
 
 <br/>
 
