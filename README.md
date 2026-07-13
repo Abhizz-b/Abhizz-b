@@ -8,11 +8,13 @@
 
 <img align="left" src="assets/sunflower-mascot.svg" width="180" alt="cute sunflower mascot"/>
 
-$\color{#c9a0dc}{\textsf{B.Tech CSE (AI and}}$ $\color{#c9a0dc}{\textsf{ML) final year student}}$ $\color{#c9a0dc}{\textsf{at KCCITM, Greater Noida}}$ $\color{#c9a0dc}{\textsf{building full-stack mobile and}}$ $\color{#c9a0dc}{\textsf{web apps that actually}}$ $\color{#c9a0dc}{\textsf{solve things.}}$
+$\color{#c9a0dc}{\textsf{hey, I'm someone who}}$ $\color{#c9a0dc}{\textsf{overthinks literally everything, and}}$ $\color{#c9a0dc}{\textsf{honestly kinda loves it,}}$ $\color{#c9a0dc}{\textsf{because that overthinking usually}}$ $\color{#c9a0dc}{\textsf{turns into an idea,}}$ $\color{#c9a0dc}{\textsf{and that idea slowly}}$ $\color{#c9a0dc}{\textsf{turns into code.}}$
 
-$\color{#c9a0dc}{\textsf{I care about the}}$ $\color{#c9a0dc}{\textsf{intersection of clean UI,}}$ $\color{#c9a0dc}{\textsf{real AI, and experiences}}$ $\color{#c9a0dc}{\textsf{that feel human. From}}$ $\color{#c9a0dc}{\textsf{dermatology models to pose}}$ $\color{#c9a0dc}{\textsf{detection to NGO websites.}}$ $\color{#c9a0dc}{\textsf{I build things that}}$ $\color{#c9a0dc}{\textsf{make ideas tangible.}}$
+$\color{#c9a0dc}{\textsf{final year B.Tech CSE}}$ $\color{#c9a0dc}{\textsf{(AI and ML) student,}}$ $\color{#c9a0dc}{\textsf{still learning, still figuring}}$ $\color{#c9a0dc}{\textsf{things out, but genuinely}}$ $\color{#c9a0dc}{\textsf{enjoy taking a random}}$ $\color{#c9a0dc}{\textsf{problem and turning it}}$ $\color{#c9a0dc}{\textsf{into something real, one}}$ $\color{#c9a0dc}{\textsf{line of code at}}$ $\color{#c9a0dc}{\textsf{a time.}}$
 
-$\color{#c9a0dc}{\textsf{Currently leading visual design}}$ $\color{#c9a0dc}{\textsf{for my college's official}}$ $\color{#c9a0dc}{\textsf{hackathon chapter as Graphic}}$ $\color{#c9a0dc}{\textsf{Head, HWI x KCC.}}$
+$\color{#c9a0dc}{\textsf{building things that turn}}$ $\color{#c9a0dc}{\textsf{"what if..." into "here}}$ $\color{#c9a0dc}{\textsf{it is."}}$
+
+$\color{#c9a0dc}{\textsf{thanks for stopping by}}$ $\color{#c9a0dc}{\textsf{my profile, hope you}}$ $\color{#c9a0dc}{\textsf{find something here worth}}$ $\color{#c9a0dc}{\textsf{a second look}}$ 💜
 
 <br clear="left"/>
 
