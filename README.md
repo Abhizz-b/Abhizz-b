@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=HELLO+WORLD+%21%21;I%27M+ABHIPSA+BOSE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1000&color=FF2D95&center=true&vCenter=true&width=600&lines=HELLO+WORLD+%21%21;I%27M+ABHIPSA+BOSE" alt="Typing SVG" />
 
 </div>
 
@@ -13,11 +13,15 @@
 </td>
 <td valign="middle">
 
+<font color="#d16ba5">
+
 B.Tech CSE (AI & ML) final year student at KCCITM, Greater Noida building full-stack mobile and web apps that actually solve things.
 
 I care about the intersection of clean UI, real AI, and experiences that feel human. From dermatology models to pose detection to NGO websites. I build things that make ideas tangible.
 
 Currently leading visual design for my college's official hackathon chapter as **Graphic Head, HWI × KCC**.
+
+</font>
 
 </td>
 </tr>
