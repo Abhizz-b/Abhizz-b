@@ -8,11 +8,11 @@
 
 <img align="left" src="assets/sunflower-mascot.svg" width="180" alt="cute sunflower mascot"/>
 
-B.Tech CSE (AI & ML) final year student at KCCITM, Greater Noida building full-stack mobile and web apps that actually solve things.
+$\color{#c9a0dc}{\textsf{B.Tech CSE (AI and}}$ $\color{#c9a0dc}{\textsf{ML) final year student}}$ $\color{#c9a0dc}{\textsf{at KCCITM, Greater Noida}}$ $\color{#c9a0dc}{\textsf{building full-stack mobile and}}$ $\color{#c9a0dc}{\textsf{web apps that actually}}$ $\color{#c9a0dc}{\textsf{solve things.}}$
 
-I care about the intersection of clean UI, real AI, and experiences that feel human. From dermatology models to pose detection to NGO websites. I build things that make ideas tangible.
+$\color{#c9a0dc}{\textsf{I care about the}}$ $\color{#c9a0dc}{\textsf{intersection of clean UI,}}$ $\color{#c9a0dc}{\textsf{real AI, and experiences}}$ $\color{#c9a0dc}{\textsf{that feel human. From}}$ $\color{#c9a0dc}{\textsf{dermatology models to pose}}$ $\color{#c9a0dc}{\textsf{detection to NGO websites.}}$ $\color{#c9a0dc}{\textsf{I build things that}}$ $\color{#c9a0dc}{\textsf{make ideas tangible.}}$
 
-Currently leading visual design for my college's official hackathon chapter as **Graphic Head, HWI × KCC**.
+$\color{#c9a0dc}{\textsf{Currently leading visual design}}$ $\color{#c9a0dc}{\textsf{for my college's official}}$ $\color{#c9a0dc}{\textsf{hackathon chapter as Graphic}}$ $\color{#c9a0dc}{\textsf{Head, HWI x KCC.}}$
 
 <br clear="left"/>
 
