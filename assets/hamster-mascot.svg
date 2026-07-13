@@ -1,0 +1,88 @@
+<svg viewBox="0 0 300 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .outline { stroke: #3d2b12; stroke-width: 5; stroke-linejoin: round; stroke-linecap: round; }
+    </style>
+    <radialGradient id="centerGrad" cx="45%" cy="40%" r="65%">
+      <stop offset="0%" stop-color="#a86b2e"/>
+      <stop offset="100%" stop-color="#8a541e"/>
+    </radialGradient>
+  </defs>
+
+  <!-- ground shadow -->
+  <ellipse cx="150" cy="322" rx="34" ry="8" fill="#000000" opacity="0.15"/>
+
+  <!-- whole flower: gentle sway -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      values="-3 150 300; 3 150 300; -3 150 300" dur="3.4s" repeatCount="indefinite"/>
+
+    <!-- stem -->
+    <path class="outline" d="M 150 190 Q 145 250 150 310" fill="none" stroke-width="7"/>
+
+    <!-- leaves -->
+    <path class="outline" fill="#7fb84a" d="M 150 250 C 120 245 95 260 90 285 C 120 285 145 275 150 250 Z"/>
+    <path class="outline" fill="#8fc95a" d="M 150 275 C 180 270 205 285 210 305 C 180 308 155 298 150 275 Z"/>
+
+    <!-- petals -->
+    <g fill="#f6c445" class="outline" stroke-width="4">
+      <ellipse cx="150" cy="70" rx="20" ry="34"/>
+      <ellipse cx="150" cy="70" rx="20" ry="34" transform="rotate(30 150 130)"/>
+      <ellipse cx="150" cy="70" rx="20" ry="34" transform="rotate(60 150 130)"/>
+      <ellipse cx="150" cy="70" rx="20" ry="34" transform="rotate(90 150 130)"/>
+      <ellipse cx="150" cy="70" rx="20" ry="34" transform="rotate(120 150 130)"/>
+      <ellipse cx="150" cy="70" rx="20" ry="34" transform="rotate(150 150 130)"/>
+      <ellipse cx="150" cy="70" rx="20" ry="34" transform="rotate(180 150 130)"/>
+      <ellipse cx="150" cy="70" rx="20" ry="34" transform="rotate(210 150 130)"/>
+      <ellipse cx="150" cy="70" rx="20" ry="34" transform="rotate(240 150 130)"/>
+      <ellipse cx="150" cy="70" rx="20" ry="34" transform="rotate(270 150 130)"/>
+      <ellipse cx="150" cy="70" rx="20" ry="34" transform="rotate(300 150 130)"/>
+      <ellipse cx="150" cy="70" rx="20" ry="34" transform="rotate(330 150 130)"/>
+    </g>
+
+    <!-- center -->
+    <circle class="outline" cx="150" cy="130" r="46" fill="url(#centerGrad)"/>
+    <circle cx="134" cy="116" r="4" fill="#c99048"/>
+    <circle cx="152" cy="110" r="4" fill="#c99048"/>
+    <circle cx="168" cy="120" r="4" fill="#c99048"/>
+    <circle cx="140" cy="134" r="4" fill="#c99048"/>
+    <circle cx="160" cy="138" r="4" fill="#c99048"/>
+    <circle cx="176" cy="140" r="4" fill="#c99048"/>
+    <circle cx="130" cy="148" r="4" fill="#c99048"/>
+    <circle cx="150" cy="152" r="4" fill="#c99048"/>
+    <circle cx="168" cy="156" r="4" fill="#c99048"/>
+
+    <!-- cute face on the center -->
+    <g>
+      <ellipse cx="135" cy="128" rx="6" ry="8" fill="#2b1a0c"/>
+      <ellipse cx="165" cy="128" rx="6" ry="8" fill="#2b1a0c"/>
+      <circle cx="137" cy="124" r="2" fill="#ffffff"/>
+      <circle cx="167" cy="124" r="2" fill="#ffffff"/>
+
+      <!-- blink lids -->
+      <path fill="url(#centerGrad)">
+        <animate attributeName="d"
+          values="M 128 128 Q 135 128 142 128 L 142 128 Q 135 128 128 128 Z;
+                  M 128 128 Q 135 128 142 128 L 142 128 Q 135 128 128 128 Z;
+                  M 128 118 Q 135 118 142 118 L 142 136 Q 135 136 128 136 Z;
+                  M 128 128 Q 135 128 142 128 L 142 128 Q 135 128 128 128 Z"
+          keyTimes="0;0.92;0.955;1" dur="3.8s" repeatCount="indefinite"/>
+      </path>
+      <path fill="url(#centerGrad)">
+        <animate attributeName="d"
+          values="M 158 128 Q 165 128 172 128 L 172 128 Q 165 128 158 128 Z;
+                  M 158 128 Q 165 128 172 128 L 172 128 Q 165 128 158 128 Z;
+                  M 158 118 Q 165 118 172 118 L 172 136 Q 165 136 158 136 Z;
+                  M 158 128 Q 165 128 172 128 L 172 128 Q 165 128 158 128 Z"
+          keyTimes="0;0.92;0.955;1" dur="3.8s" repeatCount="indefinite"/>
+      </path>
+
+      <!-- smile -->
+      <path d="M 138 142 Q 150 150 162 142" fill="none" stroke="#2b1a0c" stroke-width="3" stroke-linecap="round"/>
+
+      <!-- blush -->
+      <ellipse cx="120" cy="140" rx="7" ry="4" fill="#e8895a" opacity="0.6"/>
+      <ellipse cx="180" cy="140" rx="7" ry="4" fill="#e8895a" opacity="0.6"/>
+    </g>
+  </g>
+</svg>
