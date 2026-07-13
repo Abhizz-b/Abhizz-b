@@ -6,22 +6,15 @@
 
 <br/>
 
-<table border="0" cellspacing="0" cellpadding="10">
-<tr>
-<td width="200" valign="middle" align="center">
-<img src="assets/sunflower-mascot.svg" width="180" alt="cute sunflower mascot"/>
-</td>
-<td valign="middle">
+<img align="left" src="assets/sunflower-mascot.svg" width="180" alt="cute sunflower mascot"/>
 
-$\color{#c9a0dc}{\mathtt{B.Tech\ CSE\ (AI\ and\ ML)\ final\ year\ student\ at\ KCCITM,\ Greater\ Noida\ building\ full{\text{-}}stack\ mobile\ and\ web\ apps\ that\ actually\ solve\ things.}}$
+B.Tech CSE (AI & ML) final year student at KCCITM, Greater Noida building full-stack mobile and web apps that actually solve things.
 
-$\color{#c9a0dc}{\mathtt{I\ care\ about\ the\ intersection\ of\ clean\ UI,\ real\ AI,\ and\ experiences\ that\ feel\ human.\ From\ dermatology\ models\ to\ pose\ detection\ to\ NGO\ websites.\ I\ build\ things\ that\ make\ ideas\ tangible.}}$
+I care about the intersection of clean UI, real AI, and experiences that feel human. From dermatology models to pose detection to NGO websites. I build things that make ideas tangible.
 
-$\color{#c9a0dc}{\mathtt{Currently\ leading\ visual\ design\ for\ my\ college's\ official\ hackathon\ chapter\ as\ Graphic\ Head,\ HWI\ x\ KCC.}}$
+Currently leading visual design for my college's official hackathon chapter as **Graphic Head, HWI × KCC**.
 
-</td>
-</tr>
-</table>
+<br clear="left"/>
 
 <br/>
 
