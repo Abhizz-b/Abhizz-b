@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=HELLO+WORLD+%21%21;I%27M+ABHIPSA+BOSE" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
 <table>
 <tr>
 <td width="200" valign="middle" align="center">
@@ -21,13 +29,7 @@ Currently leading visual design for my college's official hackathon chapter as *
 
 <br/>
 
-<br/>
-
----
-
-<br/>
-
-## Where to find me
+## WHERE TO FIND ME
 
 <div align="center">
 
